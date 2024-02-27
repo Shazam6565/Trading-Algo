@@ -1,4 +1,6 @@
-# Equal-Weight S&P 500 Index Fund Script Documentation
+# Executed three S&P 500 algorithmic trading strategies using Python, pandas, NumPy, and Matplotlib, covering Equal-weight index fund creation, Momentum, and Value investing to attempt improved portfolio performance through diverse financial theories.
+
+# Equal-Weight S&P 500 Index Fund Script
 
 ## Introduction
 
@@ -54,7 +56,7 @@ The final step involves formatting and exporting the calculated data to an Excel
 
 This Python script offers a comprehensive solution for investors looking to create an equal-weight S&P 500 index fund. From fetching up-to-date stock information to calculating investment distribution and exporting actionable insights, the script simplifies the investment process, making it accessible to a wide range of users, including recruiters seeking to understand the project's functionality and potential impact.
 
-# Quantitative Momentum Strategy Documentation
+# Quantitative Momentum Strategy
 
 ## Introduction
 
@@ -104,11 +106,11 @@ Finally, the script formats the output and exports the investment recommendation
 
 This Python script provides a comprehensive approach to implementing a quantitative momentum investing strategy. By selecting stocks with high momentum and considering the quality of momentum, the strategy aims to construct a balanced, equal-weight portfolio of high-momentum stocks from the S&P 500, providing clear and actionable investment recommendations through a well-organized Excel output.
 
-# Quantitative Value Strategy Documentation
+# Quantitative Value Strategy
 
 ## Introduction
 
-This documentation outlines the Python script for a quantitative value investing strategy. This strategy focuses on selecting the 50 stocks with the best value metrics from the S&P 500, aiming for an equal-weight portfolio of these stocks.
+This documentation outlines the Python script for a quantitative value-investing strategy. This strategy focuses on selecting the 50 stocks with the best value metrics from the S&P 500, aiming for an equal-weight portfolio of these stocks.
 
 ## Library Imports
 
